@@ -1,5 +1,3 @@
-# 👋 Hey there! I'm Aditya Shelke
-
 🎓 Final-Year Information Science Student | ☁️ Cloud & Web Dev Enthusiast | 🎮 Competitive Gamer
 
 🔧 I'm currently building:
