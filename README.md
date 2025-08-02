@@ -17,9 +17,8 @@
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityashelke04&show_icons=true&theme=radical)
 
 📫 Let’s connect!
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINK_HERE)
-- [Email](mailto:YOUR_EMAIL_HERE)
-- [Portfolio Website](https://YOUR-WEBSITE-HERE) *(optional)*
+- [LinkedIn](http://www.linkedin.com/in/adityashelke04)
+- [Email](mailto:adityashelke04@gmail.com)
 
 ---
 _Always learning. Always building. Always leveling up._
