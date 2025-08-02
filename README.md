@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there! I'm Aditya Shelke
 
-<!--
-**adityashelke04/adityashelke04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Information Science Student | ☁️ Cloud & Web Dev Enthusiast | 🎮 Competitive Gamer
 
-Here are some ideas to get you started:
+🔧 I'm currently building:
+- 🗳️ AI-powered Blockchain Voting System
+- ☁️ Cloud infrastructure using AWS CDK (Python)
+- ⚙️ Mini projects in Java, Python, and Web Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Tech I work with:
+![Java](https://img.shields.io/badge/-Java-blue)
+![Python](https://img.shields.io/badge/-Python-green)
+![AWS](https://img.shields.io/badge/-AWS-orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![HTML](https://img.shields.io/badge/-HTML-red)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+
+📊 GitHub Stats:
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityashelke04&show_icons=true&theme=radical)
+
+📫 Let’s connect!
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINK_HERE)
+- [Email](mailto:YOUR_EMAIL_HERE)
+- [Portfolio Website](https://YOUR-WEBSITE-HERE) *(optional)*
+
+---
+_Always learning. Always building. Always leveling up._
