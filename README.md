@@ -1,4 +1,4 @@
-🎓 Final-Year Information Science Student | ☁️ Cloud & Web Dev Enthusiast | 🎮 Competitive Gamer (4000+ hours in FPS Games)
+🎓 Final-Year Information Science Student | ☁️ Cloud & AI Enthusiast | 🎮 Competitive Gamer (4000+ hours in FPS Games)
 
 🔧 I'm currently building:
 - 🗳️ AI-powered Blockchain Voting System
