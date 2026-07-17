@@ -145,7 +145,7 @@ Insurance advisory platform for a real business client.
 
 🎮 **4000+ hours** in FPS games · Team IGL · Multiple tournament W's
 
-💼 Running a family **distribution business** on the side — real ops, real stakes
+💼 Exploring AI, agentic workflows, and modern software engineering
 
 🧩 Philosophy: *if users keep hitting the same wall, build the ladder*
 
