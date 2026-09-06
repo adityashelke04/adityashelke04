@@ -8,7 +8,7 @@
 
 <a href="https://aditya-shelke-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/adityashelke04"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/adityashelke04"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4%3D&labelColor=000000" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:adityashelke04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a>
 &nbsp;
@@ -192,8 +192,8 @@ place.
 
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=000000" alt="Gemini API"/>
 <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp Business API"/>
-<img src="https://img.shields.io/badge/On--Device%20Inference-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" alt="On-device inference"/>
-<img src="https://img.shields.io/badge/Whisper%20%2F%20ASR-4A00E0?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" alt="Whisper and ASR"/>
+<img src="https://img.shields.io/badge/On--Device%20Inference-FF6B6B?style=for-the-badge&labelColor=000000" alt="On-device inference"/>
+<img src="https://img.shields.io/badge/Whisper%20%2F%20ASR-4A00E0?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000" alt="Whisper and ASR"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" alt="Pandas"/>
 
 </div>
@@ -204,20 +204,20 @@ place.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityashelke04&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=4A00E0&include_all_commits=true&count_private=true" width="49%" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com/?user=adityashelke04&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" width="49%" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=adityashelke04&theme=radical&hide_border=true&background=141321&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" width="49%" alt="GitHub contribution streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityashelke04&theme=radical" width="49%" alt="Profile summary: stars, commits, pull requests, issues and contributions"/>
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityashelke04&theme=radical&hide_border=true&bg_color=0d1117&title_color=8E2DE2&layout=compact&langs_count=8" width="42%" alt="Most used languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityashelke04&theme=radical" width="32%" alt="Repositories per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityashelke04&theme=radical" width="32%" alt="Most committed languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityashelke04&theme=radical&utcOffset=5.5" width="32%" alt="Most productive time of day, IST"/>
 
 <br/><br/>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution graph being eaten by a snake"/>
 
 </div>
-
----
 
 ## 🎮 Beyond The Terminal
 
