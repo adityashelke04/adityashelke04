@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=ADITYA%20SHELKE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20and%20Systems%20Engineer%20%C2%B7%20Rust%20and%20Python%20%C2%B7%20Local-first%20software&descSize=17&descAlignY=53" width="100%" alt="Aditya Shelke — AI and Systems Engineer. Rust and Python. Local-first software."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=8E2DE2&center=true&vCenter=true&width=780&lines=Building+OpenVoice+%E2%80%94+local-first+dictation+for+Windows;9+Rust+crates+%C2%B7+243+tests+%C2%B7+zero+network+calls;Technical+Support+Engineer+Intern+%40+Karix+Mobile;I+turn+support+tickets+into+shipped+products" alt="Building OpenVoice — local-first dictation for Windows. 9 Rust crates, 243 tests, zero network calls. Technical Support Engineer Intern at Karix Mobile. I turn support tickets into shipped products." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=8E2DE2&center=true&vCenter=true&width=780&lines=Building+OpenVoice+%E2%80%94+local-first+dictation+for+Windows;Rust+%C2%B7+Tauri+%C2%B7+Offline+dictation;Technical+Support+Engineer+Intern+%40+Karix+Mobile;I+turn+support+tickets+into+shipped+products" alt="Building OpenVoice — local-first dictation for Windows. Rust, Tauri, offline dictation. Technical Support Engineer Intern at Karix Mobile. I turn support tickets into shipped products." />
 
 <br/>
 
@@ -49,16 +49,18 @@ hand enough times that automating it stopped being optional.
 <div align="center">
 
 <a href="https://openvoice-dictation.vercel.app">
-<img src="https://raw.githubusercontent.com/adityashelke04/OpenVoice/main/docs/images/hub-home.png" width="88%" alt="OpenVoice home screen showing words dictated, speaking speed charted against a typing baseline, time saved, a daily streak, and recent dictations"/>
+<img src="docs/images/openvoice-home-v1.3.3-demo.png" width="88%" alt="OpenVoice v1.3.3 Home in the Glacier dark theme, showing a fictional sample message, demo dictation history, and example speaking statistics"/>
 </a>
+
+<br/>
+<sub>OpenVoice v1.3.3 · Captured 30 October 2026 · Synthetic demo text and statistics; no personal history.</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/v0.8.0-alpha-FF9F0A?style=for-the-badge&labelColor=000000" alt="v0.8.0 alpha"/>
-<img src="https://img.shields.io/badge/RUST%20TESTS-243-44D62C?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000" alt="243 Rust tests"/>
-<img src="https://img.shields.io/badge/DECODE-~500ms-8E2DE2?style=for-the-badge&labelColor=000000" alt="Median decode about 500 milliseconds"/>
-<img src="https://img.shields.io/badge/IDLE%20RAM-~60MB-8E2DE2?style=for-the-badge&labelColor=000000" alt="About 60 megabytes idle RAM"/>
-<img src="https://img.shields.io/badge/NETWORK%20CALLS-0-44D62C?style=for-the-badge&labelColor=000000" alt="Zero network calls"/>
+<a href="https://github.com/adityashelke04/OpenVoice/releases"><img src="https://img.shields.io/github/v/release/adityashelke04/OpenVoice?include_prereleases&sort=semver&style=for-the-badge&label=release&color=FF9F0A&labelColor=000000" alt="Latest OpenVoice release, including previews"/></a>
+<a href="https://github.com/adityashelke04/OpenVoice/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/adityashelke04/OpenVoice/ci.yml?branch=main&style=for-the-badge&label=CI&labelColor=000000" alt="OpenVoice CI status on main"/></a>
+<img src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011-8E2DE2?style=for-the-badge&labelColor=000000" alt="Windows 10 and 11"/>
+<img src="https://img.shields.io/badge/DICTATION-OFFLINE-44D62C?style=for-the-badge&labelColor=000000" alt="Offline dictation"/>
 
 </div>
 
@@ -80,8 +82,11 @@ you get:   "kubectl get pods"               — no capital, no period. it runs.
 ```
 
 Both are asserted as tests in the formatter crate, not illustrations. It knows which app
-has focus and applies the rules that app deserves. The no-network claim is enforced in
-CI by an allow-list check, not just promised in a README.
+has focus and applies the rules that app deserves. Dictation runs locally, with no
+telemetry. Optional model downloads and configurable update checks are the documented
+[network exceptions](https://github.com/adityashelke04/OpenVoice#principles); CI checks
+the network boundary. [Performance measurements and reference hardware](https://github.com/adityashelke04/OpenVoice#measured-on-the-reference-machine)
+are documented alongside the project.
 
 <div align="center">
 
