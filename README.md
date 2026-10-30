@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=ADITYA%20SHELKE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%26%20Systems%20Engineer%20%C2%B7%20Rust%20%26%20Python%20%C2%B7%20Local-first%20software&descSize=17&descAlignY=53" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=ADITYA%20SHELKE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20and%20Systems%20Engineer%20%C2%B7%20Rust%20and%20Python%20%C2%B7%20Local-first%20software&descSize=17&descAlignY=53" width="100%" alt="Aditya Shelke — AI and Systems Engineer. Rust and Python. Local-first software."/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=8E2DE2&center=true&vCenter=true&width=780&lines=Building+OpenVoice+%E2%80%94+local-first+dictation+for+Windows;9+Rust+crates+%C2%B7+243+tests+%C2%B7+zero+network+calls;Technical+Support+Engineer+Intern+%40+Karix+Mobile;I+turn+support+tickets+into+shipped+products" alt="Building OpenVoice — local-first dictation for Windows. 9 Rust crates, 243 tests, zero network calls. Technical Support Engineer Intern at Karix Mobile. I turn support tickets into shipped products." />
 
